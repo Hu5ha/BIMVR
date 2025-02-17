@@ -1,3 +1,2 @@
-*.fbx filter=lfs diff=lfs merge=lfs -text
 Assets/Prefabs/*.fbx filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
