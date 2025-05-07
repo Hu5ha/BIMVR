@@ -5,7 +5,7 @@ BIMVR is an interactive Unity-based virtual reality system for visualizing Build
 
 ## 📽️ Demo
 
-[▶️ Watch Demo Video](./assets/demo.mp4)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/11e6iPWhm-BGTp6SC6KU4fsTchuRdyG1H/view?usp=sharing)
 
 > The video file is stored locally in the `assets/` folder. Click the link above to watch the walkthrough.
 
